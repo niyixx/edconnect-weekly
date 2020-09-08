@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: burlywood;
+}
+h2 {
+    color: burlywood;
+    font-style: italic;
+}
+li {
+    color: #000;
+    list-style: disc;
+}
